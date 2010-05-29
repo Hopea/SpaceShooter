@@ -1,0 +1,2 @@
+E:\ohjelmointi_XNA\Game\Game\Game\Content\obj\x86\Release\ResolveAssemblyReference.cache
+E:\ohjelmointi_XNA\Game\SpaceShooter\Game\Content\obj\x86\Release\ResolveAssemblyReference.cache
